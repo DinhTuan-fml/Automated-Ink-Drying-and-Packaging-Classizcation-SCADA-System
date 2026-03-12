@@ -1,0 +1,2 @@
+# Automated-Ink-Drying-and-Packaging-Classizcation-SCADA-System
+Developed and simulated a comprehensive SCADA system for an automated production line utilizing Omron PLC and CX-Designer. The system features a sorting mechanism designed to identify and categorize 3 materials. I implemented a specialized logic branch for the printing stage, followed by an automated catagoring and quality inspection sequence.
